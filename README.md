@@ -1,4 +1,4 @@
 # hello-world
 Tutorial:
 
-Don't actually read this
+I don't want to talk about myself
